@@ -1,0 +1,16 @@
+C:\Users\Stani\source\repos\ConsoleChartExercise\bin\Debug\net5.0\ConsoleChartExercise.exe
+C:\Users\Stani\source\repos\ConsoleChartExercise\bin\Debug\net5.0\ConsoleChartExercise.deps.json
+C:\Users\Stani\source\repos\ConsoleChartExercise\bin\Debug\net5.0\ConsoleChartExercise.runtimeconfig.json
+C:\Users\Stani\source\repos\ConsoleChartExercise\bin\Debug\net5.0\ConsoleChartExercise.runtimeconfig.dev.json
+C:\Users\Stani\source\repos\ConsoleChartExercise\bin\Debug\net5.0\ConsoleChartExercise.dll
+C:\Users\Stani\source\repos\ConsoleChartExercise\bin\Debug\net5.0\ref\ConsoleChartExercise.dll
+C:\Users\Stani\source\repos\ConsoleChartExercise\bin\Debug\net5.0\ConsoleChartExercise.pdb
+C:\Users\Stani\source\repos\ConsoleChartExercise\obj\Debug\net5.0\ConsoleChartExercise.csprojAssemblyReference.cache
+C:\Users\Stani\source\repos\ConsoleChartExercise\obj\Debug\net5.0\ConsoleChartExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\source\repos\ConsoleChartExercise\obj\Debug\net5.0\ConsoleChartExercise.AssemblyInfoInputs.cache
+C:\Users\Stani\source\repos\ConsoleChartExercise\obj\Debug\net5.0\ConsoleChartExercise.AssemblyInfo.cs
+C:\Users\Stani\source\repos\ConsoleChartExercise\obj\Debug\net5.0\ConsoleChartExercise.csproj.CoreCompileInputs.cache
+C:\Users\Stani\source\repos\ConsoleChartExercise\obj\Debug\net5.0\ConsoleChartExercise.dll
+C:\Users\Stani\source\repos\ConsoleChartExercise\obj\Debug\net5.0\ref\ConsoleChartExercise.dll
+C:\Users\Stani\source\repos\ConsoleChartExercise\obj\Debug\net5.0\ConsoleChartExercise.pdb
+C:\Users\Stani\source\repos\ConsoleChartExercise\obj\Debug\net5.0\ConsoleChartExercise.genruntimeconfig.cache
